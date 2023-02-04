@@ -5,4 +5,5 @@
 
 ## result
 ![speed converter](screenshot.png)
-![weather app](screenshot1.png)
+![weather app light](screenshot1.png)
+![weather app dark](screenshot2.png)
