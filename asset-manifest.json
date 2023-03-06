@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-from-hooks/static/css/main.4d18f3c6.css",
-    "main.js": "/react-from-hooks/static/js/main.3598df95.js",
+    "main.js": "/react-from-hooks/static/js/main.34d083fd.js",
     "static/js/787.cfd742fd.chunk.js": "/react-from-hooks/static/js/787.cfd742fd.chunk.js",
     "service-worker.js": "/react-from-hooks/service-worker.js",
     "static/media/day-snowing.svg": "/react-from-hooks/static/media/day-snowing.ba1cbc7669611ee425e874e171d02e70.svg",
@@ -25,11 +25,11 @@
     "static/media/night-clear.svg": "/react-from-hooks/static/media/night-clear.94eb7d671bc6d4dec6aa0b47038954df.svg",
     "index.html": "/react-from-hooks/index.html",
     "main.4d18f3c6.css.map": "/react-from-hooks/static/css/main.4d18f3c6.css.map",
-    "main.3598df95.js.map": "/react-from-hooks/static/js/main.3598df95.js.map",
+    "main.34d083fd.js.map": "/react-from-hooks/static/js/main.34d083fd.js.map",
     "787.cfd742fd.chunk.js.map": "/react-from-hooks/static/js/787.cfd742fd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4d18f3c6.css",
-    "static/js/main.3598df95.js"
+    "static/js/main.34d083fd.js"
   ]
 }
