@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-from-hooks/static/css/main.4d18f3c6.css",
-    "main.js": "/react-from-hooks/static/js/main.34d083fd.js",
+    "main.js": "/react-from-hooks/static/js/main.8a613223.js",
     "static/js/787.cfd742fd.chunk.js": "/react-from-hooks/static/js/787.cfd742fd.chunk.js",
     "service-worker.js": "/react-from-hooks/service-worker.js",
     "static/media/day-snowing.svg": "/react-from-hooks/static/media/day-snowing.ba1cbc7669611ee425e874e171d02e70.svg",
@@ -19,17 +19,17 @@
     "static/media/night-cloudy.svg": "/react-from-hooks/static/media/night-cloudy.00520390112bf6ab4725ed66e46596e5.svg",
     "static/media/rain.svg": "/react-from-hooks/static/media/rain.8e10718e150267e9dc74f9cde4f669ea.svg",
     "static/media/day-clear.svg": "/react-from-hooks/static/media/day-clear.8857a9c17ded7f694ed227635f2939fa.svg",
-    "static/media/refresh.svg": "/react-from-hooks/static/media/refresh.e352fc8bae35a5d76241e0bd9ec1d4c5.svg",
+    "static/media/refresh.svg": "/react-from-hooks/static/media/refresh.6bd7d8abadd0051dac626499c0be0b14.svg",
     "static/media/airFlow.svg": "/react-from-hooks/static/media/airFlow.93b49bb5f452a711b4783afb6e683672.svg",
     "static/media/loading.svg": "/react-from-hooks/static/media/loading.f8d56fd58925a1aaab4f80f1d8865c03.svg",
     "static/media/night-clear.svg": "/react-from-hooks/static/media/night-clear.94eb7d671bc6d4dec6aa0b47038954df.svg",
     "index.html": "/react-from-hooks/index.html",
     "main.4d18f3c6.css.map": "/react-from-hooks/static/css/main.4d18f3c6.css.map",
-    "main.34d083fd.js.map": "/react-from-hooks/static/js/main.34d083fd.js.map",
+    "main.8a613223.js.map": "/react-from-hooks/static/js/main.8a613223.js.map",
     "787.cfd742fd.chunk.js.map": "/react-from-hooks/static/js/787.cfd742fd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4d18f3c6.css",
-    "static/js/main.34d083fd.js"
+    "static/js/main.8a613223.js"
   ]
 }
